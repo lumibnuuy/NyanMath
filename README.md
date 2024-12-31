@@ -14,7 +14,7 @@ Make sure to pay special attention to the "when to trigger" setting.
 If you're trying to use the result of the operation in an ordered execution setting, you should set it to "Now";
 otherwise, the operation will be delayed until the next frame.
 
-- ![Example usage](example.png)
+- ![Example usage](https://github.com/lumibnuuy/NyanMath/blob/main/example.png?raw=true)
 
 ## Expression syntax
 Most standard math operators and expressions are supported, including:
