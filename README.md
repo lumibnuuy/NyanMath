@@ -1,6 +1,10 @@
 ﻿# NyanMath
 Adds advanced math expression evaluation capabilities to VNyan.
 
+## Installation
+Grab the latest release zip file from the [releases page](https://github.com/lumibnuuy/NyanMath/releases)
+and extract it into your VNyan install directory.
+
 ## Usage
 To use from within a node graph, call the `NyanMath` trigger (case-sensitive) with the following values:
 - **Text 1 (required):** The expression to evaluate (more info below).
